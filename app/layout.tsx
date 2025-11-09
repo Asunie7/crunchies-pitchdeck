@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Crunchies — Hot Chicken redefined in Munich",
+  title: "Crunchies — Hot Chicken",
   description:
     "Crunchies ist Münchens erstes authentisches Nashville Hot Chicken Konzept. Modernes Streetfood mit Qualität, Leidenschaft und Brand Power. Erfahre mehr in unserem Pitchdeck.",
   keywords: [
@@ -26,10 +26,10 @@ export const metadata = {
   ],
   authors: [{ name: "Crunchies Team" }],
   openGraph: {
-    title: "Crunchies — Hot Chicken redefined in Munich",
+    title: "Crunchies — Hot Chicken",
     description:
       "Authentisches Nashville Hot Chicken. Born in Munich, inspired by Nashville.",
-    url: "https://crunchies-pitchdeck.vercel.app",
+    url: "https://crunchies-muc.vercel.app/",
     siteName: "Crunchies Pitchdeck",
     images: [
       {
