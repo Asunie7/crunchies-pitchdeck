@@ -38,7 +38,7 @@ export default function CrunchiesPitchDeck() {
             CRUNCHIES - HOT CHICKEN
           </h1>
           <p className="text-lg md:text-xl text-gray-700 font-medium">
-            Hot Chicken redefined. Born in Munich. Inspired by Nashville.
+          Born in Munich. Inspired by Nashville.
           </p>
         </div>
       </motion.section>
