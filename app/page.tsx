@@ -227,10 +227,11 @@ export default function CrunchiesPitchDeck() {
               USP &amp; Markenidentität
             </h2>
             <p className="leading-relaxed">
-              Authentisches Nashville-Konzept mit bayerischer Präzision.
+Echtes Nashville Hot Chicken, authentisch umgesetzt für den deutschen Markt.
               <br />
-              Minimalistische Karte, durchdachte Prozesse, starker Brand-Auftritt.
-            </p>
+Halal. Handmade. Fresh. – Qualität, die man schmeckt.
+              <br />
+Eine klare, fokussierte Speisekarte, effiziente Abläufe und ein einprägsamer Markenauftritt, der Vertrauen schafft und im Gedächtnis bleibt.            </p>
           </CardContent>
         </Card>
       </motion.section>
