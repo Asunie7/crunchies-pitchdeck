@@ -249,7 +249,7 @@ Eine klare, fokussierte Speisekarte, effiziente Abläufe und ein einprägsamer M
   </h2>
   <p className="text-center text-gray-700 mb-8 max-w-3xl mx-auto">
     Im Oktober waren wir nur an{" "}
-    <span className="font-semibold">4 Tagen</span> geöffnet – trotzdem haben wir
+    <span className="font-semibold">4 Tagen</span> geöffnet und jeweils von 16:00 bis 21:30 Uhr geöffnet – trotzdem haben wir
     mit einem klar fokussierten Angebot starke Umsätze, hohe Frequenz und eine
     sehr gesunde Wareneinsatzquote erzielt.
   </p>
