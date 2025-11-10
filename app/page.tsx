@@ -260,9 +260,12 @@ Eine klare, fokussierte Speisekarte, effiziente Abläufe und ein einprägsamer M
       <CardContent className="p-5 space-y-2">
         <div className="flex items-center gap-2 text-sm font-medium text-gray-500">
           <TrendingUp className="w-4 h-4 text-[#e85d04]" />
-          Gesamtumsatz Oktober
+          Profitmarge
         </div>
-        <div className="text-2xl font-bold">10.746,06 €</div>
+        <div className="text-2xl font-bold">15-19%</div>
+                <p className="text-xs text-gray-500">
+          Nachhaltige operative Nettomarge bereits im Soft Opening — trotz begrenzter Öffnungstage und Kapazitäten.
+        </p>
       </CardContent>
     </Card>
 
@@ -280,7 +283,7 @@ Eine klare, fokussierte Speisekarte, effiziente Abläufe und ein einprägsamer M
       </CardContent>
     </Card>
 
-    {/* Durchschnittlicher Tagesumsatz */}
+    {/* Durchschnittlicher Tagesumsatz
     <Card className="border-none bg-white text-left shadow-sm">
       <CardContent className="p-5 space-y-2">
         <div className="flex items-center gap-2 text-sm font-medium text-gray-500">
@@ -292,7 +295,7 @@ Eine klare, fokussierte Speisekarte, effiziente Abläufe und ein einprägsamer M
           auf Basis von 4 Öffnungstagen im Oktober
         </p>
       </CardContent>
-    </Card>
+    </Card> */}
 
     {/* Durchschnittlicher Bon */}
     <Card className="border-none bg-white text-left shadow-sm">
